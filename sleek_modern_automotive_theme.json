@@ -1,0 +1,21 @@
+{
+    "name": "Futuristic Car Dashboard",
+    "dataColors": [
+        "#FF9800", "#37474F", "#D84315", "#FFB300", "#EEEEEE"
+    ],
+    "background": "#121212",
+    "foreground": "#FFFFFF",
+    "tableAccent": "#FF9800",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [{ "color": "#121212" }],
+                "border": [{ "color": "#FF9800" }],
+                "title": [{ "color": "#FFFFFF" }],
+                "labels": [{ "color": "#FFFFFF" }],
+                "callout": [{ "color": "#FFB300" }],
+                "gridlines": [{ "color": "#424242" }]
+            }
+        }
+    }
+}
